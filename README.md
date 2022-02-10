@@ -4,8 +4,15 @@
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-- A simple Deep Learning classifier for arabic letters.
+
+![image](https://user-images.githubusercontent.com/69251989/153422080-db08dac8-ba23-47ce-912b-fc64190e7a8a.png)
+
+
+- **A simple Deep Learning classifier for arabic handwritten characters.**
 - Hosted on [GitHub](https://github.com/dabane-ghassan/what-is-my-arabic-letter)
+
+![simplescreenrecorder-2022-02-10_15 01 06 (online-video-cutter com)](https://user-images.githubusercontent.com/69251989/153423799-d14b0850-915a-4f06-b37d-0555f8fabb2f.gif)
+
 
 # Installation
 

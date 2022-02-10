@@ -3,12 +3,11 @@
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 - A simple Deep Learning classifier for arabic letters.
 - Hosted on [GitHub](https://github.com/dabane-ghassan/what-is-my-arabic-letter)
 
-## Installation
+# Installation
 
 - Cloning the package and installing the requirements:
 
@@ -18,7 +17,7 @@ cd where-is-my-arabic-letter
 pip install -r requirements.txt
 ```
 
-## Getting started
+# Getting started
 
 - To launch the main GUI:
 
@@ -26,7 +25,11 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-## About
+# Performance
+
+- An accuracy of 94% was achieved on this dataset.
+
+# About
 
 ### :scroll: License 
 **MIT Licensed** © [Ghassan Dabane](https://github.com/dabane-ghassan), [Guillaume Macie](https://github.com/GuiguiPolytech), 2022.

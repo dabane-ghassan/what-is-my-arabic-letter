@@ -16,7 +16,7 @@ model.load_state_dict(torch.load("model/shabakanet.pt"))
 def locate_xy(event):
     
     global current_x, current_y
-    
+
     current_x, current_y = event.x, event.y
 
 def addLine(event):
